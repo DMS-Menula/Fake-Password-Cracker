@@ -20,7 +20,7 @@ This is a **harmless prank batch script** that simulates a password cracking too
 - Simulated password attempts with random generation
 - Displays a fake “cracked” password after a few tries
 - Green hacker-style console output
-- Fully safe and harmless
+- Fully safe and harmless 
 
 ---
 

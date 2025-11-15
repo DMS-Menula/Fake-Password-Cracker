@@ -1,6 +1,6 @@
 # 🔐 Fake Password Cracker (Prank)
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/DMS-Menula/Fake-Password-Cracker-Prank?color=blue)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/DMS-Menula/Fake-Password-Cracker?color=blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ## 💡 Overview
@@ -29,4 +29,4 @@ This is a **harmless prank batch script** that simulates a password cracking too
 1. Download or clone this repository:
 
 ```bash
-git clone https://github.com/DMS-Menula/Fake-Password-Cracker-Prank.git
+git clone https://github.com/DMS-Menula/Fake-Password-Cracker.git

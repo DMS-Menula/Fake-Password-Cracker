@@ -7,7 +7,7 @@
 
 This is a **harmless prank batch script** that simulates a password cracking tool. It is intended for **educational purposes** or just to have fun showing off a “hacker-style” script.
 
-> **Just Double Click On It And Run.**
+> **Just Double Click On It And Run.** 
 
 <img width="1366" height="720" alt="Password Cracker v1 0 9_16_2025 3_10_59 PM" src="https://github.com/user-attachments/assets/6caba023-f375-47c4-907d-a1fb5b4aee31" />
   

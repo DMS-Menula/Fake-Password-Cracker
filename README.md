@@ -32,3 +32,8 @@ This is a **harmless prank batch script** that simulates a password cracking too
 
 ```bash
 git clone https://github.com/DMS-Menula/Fake-Password-Cracker.git
+```
+
+2. Step 2
+   
+JUST DOUBLE CLICK ON THE **ps.bat** FILE 💫 .

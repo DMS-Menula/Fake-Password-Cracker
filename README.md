@@ -17,7 +17,7 @@ This is a **harmless prank batch script** that simulates a password cracking too
 --- 
 
 ## ⚙️ Features  
- 
+  
 - Fake connection to `127.0.0.1`
 - Simulated password attempts with random generation 
 - Displays a fake “cracked” password after a few tries

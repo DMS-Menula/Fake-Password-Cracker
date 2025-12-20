@@ -1,4 +1,6 @@
- # 🔐 Fake Password Cracker
+> WARNING ⚠ This Is Only For Educational Purposes And This is a fake password cracker . Prank Others With This Tool . 💫
+ 
+ # 🔐 Password Cracker
 
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/DMS-Menula/Fake-Password-Cracker?color=blue)
 ![License](https://img.shields.io/badge/license-MIT-green)

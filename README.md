@@ -2,7 +2,7 @@
 
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/DMS-Menula/Fake-Password-Cracker?color=blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-
+ 
 ## 💡 Overview
 
 This is a **harmless prank batch script** that simulates a password cracking tool. It is intended for **educational purposes** or just to have fun showing off a “hacker-style” script.
